@@ -1,0 +1,125 @@
+{
+"response_code": 0,
+"results": [
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "In any programming language, what is the most common way to iterate through an array?",
+"correct_answer": "&#039;For&#039; loops",
+"incorrect_answers": [
+"&#039;If&#039; Statements",
+"&#039;Do-while&#039; loops",
+"&#039;While&#039; loops"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+"correct_answer": "1000",
+"incorrect_answers": [
+"512",
+"1024",
+"500"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "When Gmail first launched, how much storage did it provide for your email?",
+"correct_answer": "1GB",
+"incorrect_answers": [
+"512MB",
+"5GB",
+"Unlimited"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What does GHz stand for?",
+"correct_answer": "Gigahertz",
+"incorrect_answers": [
+"Gigahotz",
+"Gigahetz",
+"Gigahatz"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the most preferred image format used for logos in the Wikimedia database?",
+"correct_answer": ".svg",
+"incorrect_answers": [
+".png",
+".jpeg",
+".gif"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "This mobile OS held the largest market share in 2012.",
+"correct_answer": "iOS",
+"incorrect_answers": [
+"Android",
+"BlackBerry",
+"Symbian"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "How many values can a single byte represent?",
+"correct_answer": "256",
+"incorrect_answers": [
+"8",
+"1",
+"1024"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The C programming language was created by this American computer scientist. ",
+"correct_answer": "Dennis Ritchie",
+"incorrect_answers": [
+"Tim Berners Lee",
+"al-Khwārizmī",
+"Willis Ware"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which programming language shares its name with an island in Indonesia?",
+"correct_answer": "Java",
+"incorrect_answers": [
+"Python",
+"C",
+"Jakarta"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What does the computer software acronym JVM stand for?",
+"correct_answer": "Java Virtual Machine",
+"incorrect_answers": [
+"Java Vendor Machine",
+"Java Visual Machine",
+"Just Virtual Machine"
+]
+}
+]
+}
