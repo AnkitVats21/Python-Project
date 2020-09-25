@@ -323,7 +323,7 @@ lblInstruction.pack(pady=(50, 100))
 
 lblRules = Label(
     root,
-    text="This quiz contains 10 questions\nOnce you select a radio button that will be a final choice\nhence think before you select",
+    text="This quiz contains 10 questions. 5 marks for each question\nOnce you select a radio button that will be a final choice\nhence think before you select",
     width=100,
     font=("Comic sans MS", 14),
     background="#222fff",
