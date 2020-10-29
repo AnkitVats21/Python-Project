@@ -164,7 +164,7 @@ def showresult(score):
         img = PhotoImage(file="bad.png")
         labelimage.configure(image=img)
         labelimage.image = img
-        labelresulttext.configure(text=f"Your Score is {score} out of 50, Prepare more")
+        labelresulttext.configure(text=f"Your Score is {score} out of 50, Best of luck for next time.")
 
 
 score = 0;
